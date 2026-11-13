@@ -1225,6 +1225,72 @@
       "formedYear": 2023,
       "xFollowers": 6957,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "絶対少女",
+      "x": "zettaisyo_jo",
+      "youtube": null,
+      "area": "東京",
+      "members": 10,
+      "formedYear": 2026,
+      "xFollowers": 10000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ZOCX",
+      "x": "___ZOCX___",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2018,
+      "xFollowers": 110000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "SUPER JYAPON",
+      "x": "japon1201",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2017,
+      "xFollowers": 11000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "すてねこキャッツ",
+      "x": "SUTENEKO_CATS",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2022,
+      "xFollowers": 11000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "シュレーディンガーの犬",
+      "x": "schro_official",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2020,
+      "xFollowers": 19000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Switch Drop",
+      "x": "Switch_Drop_",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2026,
+      "xFollowers": 6081,
+      "ytSubscribers": null
     }
   ]
 }
