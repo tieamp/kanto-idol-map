@@ -2296,6 +2296,40 @@
       "xFollowers": 5457,
       "ytSubscribers": null,
       "agency": "FreoMotto"
+    },
+    {
+      "type": "group",
+      "name": "虜なるプレリュード",
+      "x": "TORIKO_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2026,
+      "xFollowers": 4373,
+      "ytSubscribers": null,
+      "agency": "PLATINUM PIXEL"
+    },
+    {
+      "type": "group",
+      "name": "虹色の飛行少女",
+      "x": "nijihikoushojo",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2018,
+      "xFollowers": 12000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ラフ×ラフ",
+      "x": "roughlaugh_o",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2022,
+      "xFollowers": 22000,
+      "ytSubscribers": null
     }
   ]
 }
