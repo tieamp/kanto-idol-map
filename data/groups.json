@@ -1520,6 +1520,96 @@
       "formedYear": 2015,
       "xFollowers": 11000,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "愛乙女★DOLL",
+      "x": "lovelydoll_jp",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2014,
+      "xFollowers": 11000,
+      "ytSubscribers": null,
+      "agency": "ArcJewel"
+    },
+    {
+      "type": "group",
+      "name": "RAViDAVi",
+      "x": "RAViDAVi_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 6733,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ルルネージュ",
+      "x": "ruruneige",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2018,
+      "xFollowers": 11000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "強がりセンセーション",
+      "x": "tysn_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 3625,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Bibbidi Chu",
+      "x": "Bibbidi_Chu",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 1094,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ハレとハレ！",
+      "x": "_HARETOHARE",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 5205,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Chuu♡Cute",
+      "x": "chuu_cute_",
+      "youtube": null,
+      "area": "東京",
+      "members": 5,
+      "formedYear": 2025,
+      "xFollowers": 4710,
+      "ytSubscribers": null,
+      "agency": "TRUSTAR"
+    },
+    {
+      "type": "group",
+      "name": "夜とメルク",
+      "x": "yorutomerc",
+      "youtube": null,
+      "area": "東京",
+      "members": 4,
+      "formedYear": 2021,
+      "xFollowers": 2263,
+      "ytSubscribers": null
     }
   ]
 }
