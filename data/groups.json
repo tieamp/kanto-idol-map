@@ -2147,6 +2147,75 @@
       "formedYear": 2025,
       "xFollowers": 4738,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ポジティブモンスター",
+      "x": "moricircle",
+      "youtube": null,
+      "area": "東京",
+      "members": 5,
+      "formedYear": 2021,
+      "xFollowers": 2894,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "MyDresscode",
+      "x": "_MyDresscode_",
+      "youtube": null,
+      "area": "東京",
+      "members": 9,
+      "formedYear": 2024,
+      "xFollowers": 7418,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "metarium",
+      "x": "metarium_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2022,
+      "xFollowers": 7404,
+      "ytSubscribers": null,
+      "agency": "Be Rise Lab"
+    },
+    {
+      "type": "group",
+      "name": "Märmi",
+      "x": "marmi_seju",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2026,
+      "xFollowers": 3254,
+      "ytSubscribers": null,
+      "agency": "seju"
+    },
+    {
+      "type": "group",
+      "name": "YumeLia",
+      "x": "Yume_Lia_",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 3050,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "LIE LILIE",
+      "x": "LIELILIEOFFCIAL",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 1186,
+      "ytSubscribers": null,
+      "agency": "PLANET CATS"
     }
   ]
 }
