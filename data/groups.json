@@ -1452,6 +1452,74 @@
       "formedYear": 2022,
       "xFollowers": 3360,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "LADYBABY",
+      "x": "LADYBABY_JP",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 38000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "@onefive",
+      "x": "onefive_music",
+      "youtube": null,
+      "area": "東京",
+      "members": 4,
+      "formedYear": 2019,
+      "xFollowers": 28000,
+      "ytSubscribers": null,
+      "agency": "Amuse／avex"
+    },
+    {
+      "type": "group",
+      "name": "LOVE CHANT",
+      "x": "L0VE_CHANT",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2026,
+      "xFollowers": 1738,
+      "ytSubscribers": null,
+      "agency": "ボックスコーポレーション"
+    },
+    {
+      "type": "group",
+      "name": "REIRIE",
+      "x": "REIRIEofficial",
+      "youtube": null,
+      "area": "東京",
+      "members": 2,
+      "formedYear": 2022,
+      "xFollowers": 64000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Lv.♡Charm",
+      "x": "lvcharmofficial",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 6266,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ワンダーウィード 天",
+      "x": "wonder__weed",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2015,
+      "xFollowers": 11000,
+      "ytSubscribers": null
     }
   ]
 }
