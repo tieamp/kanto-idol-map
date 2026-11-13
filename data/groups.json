@@ -1081,6 +1081,28 @@
       "formedYear": 2026,
       "xFollowers": 5708,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "アイドルカレッジ",
+      "x": "ic_idolcollege",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2009,
+      "xFollowers": 11000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "As a Cutie Pomeranian",
+      "x": "aacp_official",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2022,
+      "xFollowers": 3953,
+      "ytSubscribers": null
     }
   ]
 }
