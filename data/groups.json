@@ -1103,6 +1103,128 @@
       "formedYear": 2022,
       "xFollowers": 3953,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "アップアップガールズ（仮）",
+      "x": "uugirlsofficial",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2010,
+      "xFollowers": 19000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "unFinale Tokyo",
+      "x": "unFinaleTokyo",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2026,
+      "xFollowers": 7490,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Aerolipop",
+      "x": "Aerolipop",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 2552,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "踊れ！神風",
+      "x": "odorekamikaze",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 2542,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "君のメインヒロイン",
+      "x": "kimimero_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2025,
+      "xFollowers": 2267,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "キュン!?恋堕ちキューピッド",
+      "x": "qpid_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2024,
+      "xFollowers": 4784,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "GILTY×GILTY",
+      "x": "GILTYxGILTY",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2022,
+      "xFollowers": 54000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "恋に落ちる確率は限りなく低いが0じゃない",
+      "x": "koikagi_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2019,
+      "xFollowers": 5707,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "コングラッチェ！",
+      "x": "congrazie_R",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2023,
+      "xFollowers": 2977,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "最終未来少女",
+      "x": "SMS__Press",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 28000,
+      "ytSubscribers": null,
+      "agency": "Mint Productions"
+    },
+    {
+      "type": "group",
+      "name": "THE PINK MINDS",
+      "x": "the_pink_minds",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 6957,
+      "ytSubscribers": null
     }
   ]
 }
