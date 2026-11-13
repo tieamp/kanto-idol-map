@@ -2103,6 +2103,50 @@
       "formedYear": 2025,
       "xFollowers": 5599,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "AsIs",
+      "x": "AsIs_OFC",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2024,
+      "xFollowers": 12000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "&CUTE",
+      "x": "andcute_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 4986,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "NO FRAME",
+      "x": "info_NOFRAME",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 1564,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ファーストプレイリスト",
+      "x": "FP_OFC_",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2025,
+      "xFollowers": 4738,
+      "ytSubscribers": null
     }
   ]
 }
