@@ -1979,6 +1979,86 @@
       "xFollowers": 2503,
       "ytSubscribers": null,
       "agency": "コレットプロモーション"
+    },
+    {
+      "type": "group",
+      "name": "エイアイカ",
+      "x": "aiika__official",
+      "youtube": null,
+      "area": "東京",
+      "members": 3,
+      "formedYear": 2024,
+      "xFollowers": 4280,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "17秒前の瞬きに光を",
+      "x": "nanataki_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 3302,
+      "ytSubscribers": null,
+      "agency": "FreoMotto"
+    },
+    {
+      "type": "group",
+      "name": "たまゆらストレンジャー",
+      "x": "tamayurastorage",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 2271,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ChumToto",
+      "x": "chum_toto",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 7865,
+      "ytSubscribers": null,
+      "agency": "ディアステージ"
+    },
+    {
+      "type": "group",
+      "name": "昼夜逆転",
+      "x": "cygt_official",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 7286,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Drug&Drop",
+      "x": "DrugDrop_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 5571,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "なう♡すとれーじ",
+      "x": "nowstorage_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 8268,
+      "ytSubscribers": null,
+      "agency": "HEROINES"
     }
   ]
 }
