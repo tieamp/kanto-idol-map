@@ -1384,6 +1384,74 @@
       "xFollowers": 3548,
       "ytSubscribers": null,
       "agency": "ジャパン・ミュージックエンターテインメント／YARD"
+    },
+    {
+      "type": "group",
+      "name": "ベンジャス！",
+      "x": "benjas_official",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2019,
+      "xFollowers": 6138,
+      "ytSubscribers": null,
+      "agency": "コレットプロモーション"
+    },
+    {
+      "type": "group",
+      "name": "Peel the Apple",
+      "x": "PtA_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2020,
+      "xFollowers": 25000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "PIAGRIM",
+      "x": "PIAGRIM_O",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 1652,
+      "ytSubscribers": null,
+      "agency": "MAPLE INC."
+    },
+    {
+      "type": "group",
+      "name": "Melty BeaR",
+      "x": "meltybear_OFC",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 6004,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Maison de Queen",
+      "x": "MaisondeQueen",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2024,
+      "xFollowers": 14000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ラビットビット",
+      "x": "rabbitbit2022",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2022,
+      "xFollowers": 3360,
+      "ytSubscribers": null
     }
   ]
 }
