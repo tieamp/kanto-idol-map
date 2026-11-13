@@ -2367,17 +2367,6 @@
     },
     {
       "type": "group",
-      "name": "あたまのなかは8ビット！？",
-      "x": "8_bit_idol",
-      "youtube": null,
-      "area": "東京",
-      "members": 8,
-      "formedYear": 2019,
-      "xFollowers": 9582,
-      "ytSubscribers": null
-    },
-    {
-      "type": "group",
       "name": "α＋",
       "x": "alphaplus_idol",
       "youtube": null,
@@ -2408,6 +2397,17 @@
       "members": null,
       "formedYear": 2026,
       "xFollowers": 861,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Task have Fun",
+      "x": "TaskhaveFun_ST",
+      "youtube": null,
+      "area": "東京",
+      "members": 3,
+      "formedYear": 2016,
+      "xFollowers": 5471,
       "ytSubscribers": null
     }
   ]
