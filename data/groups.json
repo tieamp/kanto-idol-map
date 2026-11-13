@@ -1851,6 +1851,87 @@
       "formedYear": 2025,
       "xFollowers": 3177,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "AOSTARIA",
+      "x": "AOSTARIA",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2026,
+      "xFollowers": 1335,
+      "ytSubscribers": null,
+      "agency": "TRUSTAR"
+    },
+    {
+      "type": "group",
+      "name": "KAMAITACI",
+      "x": "KAMAITACI_O",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 3315,
+      "ytSubscribers": null,
+      "agency": "MAPLE INC."
+    },
+    {
+      "type": "group",
+      "name": "COLOR of COLOR",
+      "x": "CoC___info",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2025,
+      "xFollowers": 3033,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "SAI²Rium",
+      "x": "SAI2Rium",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2022,
+      "xFollowers": 7373,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Malcolm Mask McLaren",
+      "x": "MMM_core",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2015,
+      "xFollowers": 6511,
+      "ytSubscribers": null,
+      "agency": "エイジアプロモーション"
+    },
+    {
+      "type": "group",
+      "name": "メイビーME",
+      "x": "maybeme0707",
+      "youtube": null,
+      "area": "東京",
+      "members": 9,
+      "formedYear": 2018,
+      "xFollowers": 11000,
+      "ytSubscribers": null,
+      "agency": "ME Ltd"
+    },
+    {
+      "type": "group",
+      "name": "Sophià la Mode",
+      "x": "Sophia_la_Mode",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 3184,
+      "ytSubscribers": null
     }
   ]
 }
