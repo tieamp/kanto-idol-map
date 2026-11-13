@@ -1,0 +1,337 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}.region{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--pop1);border:2.5px solid var(--line);box-shadow:4px 4px 0 var(--shadow);border-radius:16px;padding:5px;margin-bottom:10px}
+.region a,.region span{display:block;text-align:center;font-weight:800;font-size:15px;padding:9px 8px;border-radius:11px;text-decoration:none;color:#2a2140}
+.region .on{background:var(--accent);color:#fff}
+</style></head><body>
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>関東アイドルマップ</title>
+<style>
+:root{--bg:#eef6ff;--card:#fff;--text:#2a2140;--sub:#6b5f88;--line:#2a2140;--accent:#1f6fff;--bar:#a9c8ff;--pop1:#9fe3d3;--pop2:#ffd93d;--pop3:#5b8def;--shadow:#2a2140}
+*{box-sizing:border-box}
+body{margin:0;background-color:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.6}
+.wrap{max-width:820px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:22px;margin:8px 0 4px}
+.lead{color:var(--sub);font-size:13px;margin:0 0 16px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:16px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px}
+.stat b{display:block;font-size:20px;color:var(--accent)}
+.stat span{font-size:11px;color:var(--sub)}
+.tabs{display:grid;grid-template-columns:1fr 1fr;gap:6px;background:var(--line);padding:4px;border-radius:12px;margin-bottom:14px}
+.tab{border:0;background:transparent;color:var(--sub);font-size:15px;font-weight:700;padding:10px 8px;border-radius:9px;cursor:pointer;font-family:inherit}
+.tab small{font-weight:500;font-size:12px;margin-left:4px}
+.tab.on{background:var(--card);color:var(--accent);box-shadow:0 1px 3px rgba(0,0,0,.12)}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+.tools input,.tools select{flex:1 1 140px;padding:9px 10px;border:1px solid var(--line);border-radius:10px;background:var(--card);color:var(--text);font-size:14px}
+.btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none;padding:10px 16px;border-radius:10px;font-size:14px;font-weight:600}
+.item{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:8px}
+.row1{display:flex;align-items:baseline;gap:8px}
+.rank{font-weight:700;color:var(--accent);min-width:28px}
+.name{font-weight:700;font-size:16px}
+.meta{font-size:12px;color:var(--sub);margin:2px 0 6px}
+.bar{height:6px;border-radius:3px;background:var(--line);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--bar)}
+.nums{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;margin-top:6px}
+.nums a{color:var(--accent);text-decoration:none}
+.empty{text-align:center;color:var(--sub);padding:40px 0}
+footer{margin-top:24px;font-size:11px;color:var(--sub)}
+h1{font-size:30px;font-weight:900;letter-spacing:.02em;margin:6px 0 6px;display:inline-block;background:linear-gradient(90deg,#1f6fff,#22b8f0 55%,#12b886);-webkit-background-clip:text;background-clip:text;color:transparent;filter:drop-shadow(2px 2px 0 var(--pop1))}
+body{background-image:radial-gradient(circle at 10% 12%,rgba(159,227,211,.55) 0 80px,transparent 81px),radial-gradient(circle at 92% 6%,rgba(255,217,61,.4) 0 110px,transparent 111px),radial-gradient(circle at 85% 75%,rgba(91,141,239,.35) 0 130px,transparent 131px),radial-gradient(circle at 5% 85%,rgba(31,111,255,.2) 0 100px,transparent 101px),radial-gradient(rgba(31,111,255,.18) 2px,transparent 2.6px);background-size:auto,auto,auto,auto,22px 22px;background-attachment:fixed}
+.stat,.item,.tabs,.tools input,.tools select{border:2.5px solid var(--line);box-shadow:4px 4px 0 var(--shadow)}
+.stat,.item{border-radius:16px}
+.stat:nth-child(2) b{color:#12b886}
+.stat:nth-child(3) b{color:#5b8def}
+.tabs{background:var(--pop1);border-radius:16px;padding:5px}
+.tab{color:#2a2140;border-radius:11px}
+.tab.on{background:var(--accent);color:#fff;box-shadow:none}
+.tools input,.tools select{border-radius:12px;box-shadow:3px 3px 0 var(--shadow)}
+.btn{border:2.5px solid var(--line);box-shadow:4px 4px 0 var(--shadow);border-radius:14px;transition:transform .08s}
+.btn:active{transform:translate(3px,3px);box-shadow:1px 1px 0 var(--shadow)}
+.item{transition:transform .1s}
+.item:hover{transform:translate(-1px,-2px)}
+.rank{display:inline-grid;place-items:center;min-width:30px;height:30px;border-radius:50%;background:var(--pop1);color:#2a2140;border:2px solid var(--line);font-size:14px}
+.bar{height:10px;border-radius:6px;border:2px solid var(--line);background:var(--card)}
+.bar i{background:repeating-linear-gradient(45deg,var(--accent) 0 8px,var(--pop3) 8px 16px)}
+.area-h{margin:18px 2px 8px;font-weight:900;font-size:17px;display:flex;align-items:center;gap:8px}
+.area-h::before{content:"";width:14px;height:14px;border-radius:50%;background:var(--pop2);border:2px solid var(--line)}
+.area-h small{font-size:12px;font-weight:700;color:var(--sub)}
+.item.has{cursor:pointer}
+.tg{margin-left:auto;font-size:11px;color:var(--sub);white-space:nowrap}
+.item.has .tg::after{content:" ▼"}
+.item.open .tg::after{content:" ▲"}
+.detail{display:none;margin-top:10px;padding-top:10px;border-top:2px dashed var(--line)}
+.item.open .detail{display:block}
+.detail h3{margin:0 0 6px;font-size:13px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-size:12px;font-weight:700;padding:4px 10px;border:2px solid var(--line);border-radius:999px;background:var(--card);color:var(--text);text-decoration:none;font-family:inherit;cursor:default}
+.chip.go{cursor:pointer;background:var(--pop1);color:#2a2140}
+.chip small{font-weight:500;color:var(--sub);margin-left:4px}
+.chip.go small{color:#2a2140}
+.links{display:flex;gap:14px;flex-wrap:wrap;font-size:13px;margin-top:4px}
+.links a{color:var(--accent);text-decoration:none}
+.ag{font-size:12.5px;margin-top:4px}.ag a{color:var(--accent);text-decoration:none}
+.ach{margin:8px 0 0;padding:6px 0 0;border-top:1px solid rgba(120,110,150,.18);background:none;color:inherit;opacity:.85;font-size:12.5px;line-height:1.55}
+.ach b{display:block;font-size:11px;opacity:.7;margin-bottom:2px}
+.ach ul{margin:0;padding-left:1.1em}
+.note{font-size:11px;color:var(--sub);margin:6px 0 0}
+.flash{animation:fl 1.2s}
+@keyframes fl{0%,60%{box-shadow:0 0 0 5px var(--pop2),4px 4px 0 var(--shadow)}100%{box-shadow:4px 4px 0 var(--shadow)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="region"><a href="https://kansaiidolmap.kfsarv.com/">関西</a><span class="on">関東</span></div>
+    <h1>関東アイドルマップ</h1>
+  <p class="lead">ファンの情報提供で作る、関東のアイドル一覧。Xの公式アカウントがあるグループが対象です。</p>
+
+  <button id="copyurl" type="button" style="display:inline-block;margin:0 0 14px;padding:8px 16px;border-radius:999px;border:2px solid var(--line);background:var(--card);color:var(--text);font-weight:700;font-size:13px;cursor:pointer">🔗 このサイトのURLをコピー</button>
+  <input id="urlbox" type="text" readonly style="display:block;width:100%;margin:-4px 0 14px;padding:8px 12px;border-radius:10px;border:1px solid var(--line);background:var(--card);color:var(--text);font-size:13px" aria-label="サイトURL">
+
+  <div class="stats">
+    <div class="stat"><b id="sCount">0</b><span id="sCountLabel">登録グループ数</span></div>
+    <div class="stat"><b id="sX">0</b><span>Xフォロワー合計</span></div>
+    <div class="stat"><b id="sYT">0</b><span>YouTube登録者合計</span></div>
+  </div>
+
+  <div class="tools">
+    <input id="q" type="search" placeholder="名前・@アカウントで検索">
+    <select id="area"><option value="">全エリア</option></select>
+    <select id="sort">
+      <option value="score">影響力順（X+YouTube）</option>
+      <option value="x">Xフォロワー順</option>
+      <option value="yt">YouTube登録者順</option>
+      <option value="year">活動歴が長い順</option>
+      <option value="area">都道府県順</option>
+    </select>
+    <select id="dir" aria-label="並び順の向き">
+      <option value="desc">降順（多い・長い順）</option>
+      <option value="asc">昇順（少ない・短い順）</option>
+    </select>
+  </div>
+  <p style="margin:0 0 14px"><a class="btn" id="submit" href="#">＋ グループを教える / 情報を更新する</a></p>
+
+  <div id="list"></div>
+  <footer>
+    数値は情報提供時点のものです。「影響力」はXフォロワー数とYouTube登録者数の合計で算出しています。<br>
+    最終更新：<span id="updated">-</span>
+  </footer>
+</div>
+
+<script>
+// 公開URLが username.github.io/repo の場合は自動判定。違う場合はここに "ユーザー名/リポジトリ名" を入れる
+const REPO_OVERRIDE = "tieamp/kanto-idol-map";
+// 情報提供フォーム（Googleフォーム）
+const FORM_URL = ""; // Googleフォームを作ったらここにURLを入れる（空の間はGitHubのIssueフォームを使う）
+
+const fmt = n => (n == null ? "-" : n.toLocaleString("ja-JP"));
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let groups = [];
+let currentType = "group"; // "group" | "solo"
+const openSet = new Set();
+const typeOf = g => g.type === "solo" ? "solo" : "group";
+
+function repoPath(){
+  if (REPO_OVERRIDE) return REPO_OVERRIDE;
+  const m = location.hostname.match(/^(.+)\.github\.io$/);
+  const r = location.pathname.split("/")[1];
+  return m && r ? `${m[1]}/${r}` : "";
+}
+const repo = repoPath();
+const submitBtn = document.getElementById("submit");
+submitBtn.href = FORM_URL || (repo ? `https://github.com/${repo}/issues/new?template=add-group.yml` : "#");
+submitBtn.target = "_blank";
+submitBtn.rel = "noopener";
+
+const score = g => (g.xFollowers || 0) + (g.ytSubscribers || 0);
+const AREA_ORDER = ["東京","神奈川","埼玉","千葉","茨城","栃木","群馬","関東（複数・全域）"];
+const areaIdx = g => { const i = AREA_ORDER.indexOf(g.area); return i < 0 ? 99 : i; };
+const sorters = {
+  area: (a,b) => areaIdx(a) - areaIdx(b) || score(b) - score(a),
+  score: (a,b) => score(b) - score(a),
+  x: (a,b) => (b.xFollowers||0) - (a.xFollowers||0),
+  yt: (a,b) => (b.ytSubscribers||0) - (a.ytSubscribers||0),
+  year: (a,b) => (a.formedYear||9999) - (b.formedYear||9999)
+};
+
+const sortVal = {
+  score: g => score(g), x: g => g.xFollowers, yt: g => g.ytSubscribers,
+  year: g => g.formedYear ? new Date().getFullYear() - g.formedYear : null
+};
+function sortList(list, sort, dir){
+  if (dir !== "asc") return list.sort(sorters[sort]);
+  if (sort === "area") return list.sort((a,b) => areaIdx(b) - areaIdx(a) || score(a) - score(b));
+  const f = sortVal[sort];
+  return list.sort((a,b) => {
+    const va = f(a), vb = f(b);
+    if (va == null && vb == null) return 0;
+    if (va == null) return 1;
+    if (vb == null) return -1;
+    return va - vb;
+  });
+}
+let agencyFilter = "";
+// 事務所が2社ある場合は「A／B」と書く。どちらの社名でも絞り込み・検索できる
+const agList = g => String(g.agency || "").split("／").map(x => x.trim()).filter(Boolean);
+function render(){
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const area = document.getElementById("area").value;
+  const sort = document.getElementById("sort").value;
+  const inType = groups.filter(g => typeOf(g) === currentType);
+  const solo = currentType === "solo";
+  document.getElementById("sCountLabel").textContent = solo ? "登録ソロ数" : "登録グループ数";
+  document.getElementById("sCount").textContent = fmt(inType.length);
+  document.getElementById("sX").textContent = fmt(inType.reduce((s,g)=>s+(g.xFollowers||0),0));
+  document.getElementById("sYT").textContent = fmt(inType.reduce((s,g)=>s+(g.ytSubscribers||0),0));
+  const sel = document.getElementById("area");
+  const areaList = [...new Set(inType.map(g => g.area).filter(Boolean))].sort((a,b) => areaIdx({area:a}) - areaIdx({area:b}));
+  const cnt = a => inType.filter(g => g.area === a).length;
+  sel.innerHTML = `<option value="">全エリア（${inType.length}組）</option>` + areaList.map(a => `<option value="${esc(a)}"${a === area ? " selected" : ""}>${esc(a)}（${cnt(a)}組）</option>`).join("");
+  if (area && !areaList.includes(area)) sel.value = "";
+  const list = inType
+    .filter(g => !area || g.area === area)
+    .filter(g => !agencyFilter || agList(g).includes(agencyFilter))
+    .filter(g => !q || g.name.toLowerCase().includes(q) || g.x.toLowerCase().includes(q) || (g.agency || "").toLowerCase().includes(q))
+    ;
+  sortList(list, sort, document.getElementById("dir").value);
+  const max = Math.max(1, ...list.map(score));
+  const el = document.getElementById("list");
+  if (!list.length){
+    el.innerHTML = '<div class="empty">該当するグループがありません。<br>上のボタンから情報を教えてください！</div>';
+    return;
+  }
+  let prevArea = null, n = 0;
+  const filtered = area || q || agencyFilter;
+  const bar0 = filtered ? `<div class="area-h" style="margin-top:6px">${esc(agencyFilter ? "事務所：" + agencyFilter : (area || "検索結果"))}<small>${list.length}組${(area || agencyFilter) && q ? "（「" + esc(q) + "」で絞り込み）" : ""}</small>${agencyFilter ? ' <a href="#" data-agclear style="display:inline-block;font-size:13px;font-weight:700;margin-left:10px;padding:4px 12px;border-radius:999px;background:#e5484d;color:#fff;text-decoration:none;vertical-align:middle">✕ 事務所の絞り込みを解除</a>' : ""}</div>` : "";
+  el.innerHTML = bar0 + list.map((g,i) => {
+    const byArea = sort === "area";
+    let head = "";
+    if (byArea && !filtered && g.area !== prevArea) {
+      n = 0;
+      head = `<div class="area-h">${esc(g.area || "その他")}<small>${list.filter(x => x.area === g.area).length}組</small></div>`;
+    }
+    prevArea = g.area; n++;
+    const rank = byArea ? n : i + 1;
+    return head + `
+    <div class="item${(g.partners && g.partners.length) || (g.similar && g.similar.length) ? " has" : ""}${openSet.has(g.x) ? " open" : ""}" data-x="${esc(g.x)}">
+      <div class="row1"><span class="rank">${rank}</span><span class="name">${esc(g.name)}</span>${g.partners && g.partners.length ? '<span class="tg">よく共演</span>' : ""}</div>
+      <div class="meta">${[g.area, g.formedYear ? g.formedYear + (solo ? "年〜活動" : "年結成") : ""].filter(Boolean).map(esc).join(" ・ ")}</div>
+      ${g.agency ? `<div class="ag">事務所：${agList(g).map(a => `<a href="#" data-ag="${esc(a)}">${esc(a)}</a>`).join("／")}</div>` : ""}
+      <div class="bar"><i style="width:${Math.round(score(g)/max*100)}%"></i></div>
+      <div class="nums">
+        <span>X <a href="https://x.com/${esc(g.x)}" target="_blank" rel="noopener">@${esc(g.x)}</a> ${fmt(g.xFollowers)}</span>
+        ${g.youtube ? `<span>YouTube <a href="${esc(g.youtube)}" target="_blank" rel="noopener">チャンネル</a> ${fmt(g.ytSubscribers)}</span>` : ""}
+      </div>
+      ${linksHtml(g)}${topicHtml(g)}
+      ${partnersHtml(g)}
+    </div>`;
+  }).join("");
+}
+
+function linksHtml(g){
+  const a = [];
+  if (g.schedule) a.push(`<a href="${esc(g.schedule)}" target="_blank" rel="noopener">スケジュール</a>`);
+  if (g.website) a.push(`<a href="${esc(g.website)}" target="_blank" rel="noopener">${/^https?:\/\/lit\.link\//.test(g.website)?"リンク集":"公式HP"}</a>`);
+  return a.length ? `<div class="links">${a.join("")}</div>` : "";
+}
+function topicHtml(g){
+  const l = (g.topics || []).filter(Boolean);
+  return l.length ? `<div class="ach"><b>トピック</b><ul>${l.map(t => `<li>${esc(t)}</li>`).join("")}</ul></div>` : "";
+}
+function partnersHtml(g){
+  const hasP = g.partners && g.partners.length, hasS = g.similar && g.similar.length;
+  if (!hasP && !hasS) return "";
+  const byX = new Map(groups.map(h => [h.x.toLowerCase(), h]));
+  const chip = p => {
+    const h = p.x && byX.get(p.x.toLowerCase());
+    const cnt = p.count ? `<small>${p.count}回</small>` : "";
+    return h
+      ? `<button type="button" class="chip go" data-go="${esc(h.x)}">${esc(h.name)}${cnt}</button>`
+      : `<span class="chip">${esc(p.name)}${cnt}</span>`;
+  };
+  let html = '<div class="detail">';
+  if (hasP) html += `<h3>よく共演するグループ</h3><div class="chips">${[...g.partners].sort((a,b) => (b.count||0) - (a.count||0)).map(chip).join("")}</div>
+    <p class="note">ライブの出演情報（イベンターノート等）から集計（${esc(g.partnersAsOf || "調査時点")}）。登録されていないライブは含みません。黄色は掲載中のグループ（タップで移動）。</p>`;
+  if (hasS) html += `<h3 style="margin-top:12px">次に観てみたいグループ</h3><div class="chips">${g.similar.map(chip).join("")}</div>
+    <p class="note">同じライブにはまだ出ていませんが、共演しているグループの顔ぶれが近いグループです。</p>`;
+  return html + "</div>";
+}
+
+// ライブの出演情報（data/kyoen/kyoen.json）から、各グループの「よく共演するグループ」を作る。読み込めなくてもマップは動く
+function applyKyoen(k){
+  const A = k.acts, idx = new Map(A.map((a, i) => [a.n, i])), days = A.map(() => new Map());
+  k.events.forEach(e => { for (const a of e.a) for (const b of e.a) if (a !== b) {
+    let s = days[a].get(b); if (!s) days[a].set(b, s = new Set()); s.add(e.d); } });
+  const ds = k.events.map(e => e.d).sort();
+  const asOf = ds.length ? (ds[0].slice(0,4) === ds[ds.length-1].slice(0,4) ? `${ds[0].slice(0,4)}年${+ds[0].slice(5,7)}〜${+ds[ds.length-1].slice(5,7)}月` : `${ds[0].slice(0,4)}年${+ds[0].slice(5,7)}月〜${ds[ds.length-1].slice(0,4)}年${+ds[ds.length-1].slice(5,7)}月`) : "";
+  groups.forEach(g => {
+    const i = idx.get(g.name); if (i == null) return;
+    const list = [...days[i]].filter(([, s]) => s.size >= 2)
+      .sort((x, y) => y[1].size - x[1].size || A[y[0]].d - A[x[0]].d).slice(0, 8)
+      .map(([b, s]) => ({name: A[b].n, x: A[b].x || null, count: s.size}));
+    if (list.length) { g.partners = list; g.partnersAsOf = asOf; }
+    // まだ同じライブに出ていないが、共演しているグループの顔ぶれが近いグループ（登録グループのみ）
+    const va = new Map([...days[i]].map(([b, s]) => [b, s.size])); let na = 0; va.forEach(v => na += v * v);
+    const sim = [];
+    A.forEach((c, j) => { if (j === i || !c.r || c.d < 2 || days[i].has(j)) return;
+      let dot = 0, nc = 0, shared = 0;
+      days[j].forEach((s, b) => { nc += s.size * s.size; if (va.has(b)) { dot += s.size * va.get(b); shared++; } });
+      if (dot && shared >= 2) sim.push({name: c.n, x: c.x || null, sim: dot / Math.sqrt(na * nc)}); });
+    sim.sort((p, q) => q.sim - p.sim);
+    if (sim.length) g.similar = sim.slice(0, 6);
+  });
+}
+fetch("data/groups.json", {cache:"no-cache"}).then(r => r.json()).then(async d => {
+  groups = d.groups || [];
+  try { applyKyoen(await fetch("data/kyoen/kyoen.json", {cache:"no-cache"}).then(r => r.json())); } catch (e) {}
+  document.getElementById("updated").textContent = d.updatedAt || "-";
+  const areas = [...new Set(groups.map(g => g.area).filter(Boolean))].sort((a,b) => areaIdx({area:a}) - areaIdx({area:b}));
+  render();
+}).catch(() => { document.getElementById("list").innerHTML = '<div class="empty">データを読み込めませんでした</div>'; });
+
+document.getElementById("list").addEventListener("click", e => {
+  const ag = e.target.closest("[data-ag]");
+  if (ag){ e.preventDefault(); agencyFilter = ag.dataset.ag; document.getElementById("area").value = ""; document.getElementById("q").value = ""; render(); window.scrollTo({top:0,behavior:"smooth"}); return; }
+  if (e.target.closest("[data-agclear]")){ e.preventDefault(); agencyFilter = ""; render(); return; }
+  const go = e.target.closest("[data-go]");
+  if (go){
+    const x = go.dataset.go, h = groups.find(g => g.x === x);
+    if (!h) return;
+    currentType = typeOf(h);
+    document.querySelectorAll(".tab").forEach(t => t.classList.toggle("on", t.dataset.type === currentType));
+    document.getElementById("q").value = ""; document.getElementById("area").value = "";
+    openSet.add(x); render();
+    const t = document.querySelector(`.item[data-x="${CSS.escape(x)}"]`);
+    if (t){ t.scrollIntoView({behavior:"smooth",block:"center"}); t.classList.add("flash"); }
+    return;
+  }
+  if (e.target.closest("a")) return;
+  const it = e.target.closest(".item.has");
+  if (!it) return;
+  const x = it.dataset.x;
+  openSet.has(x) ? openSet.delete(x) : openSet.add(x);
+  it.classList.toggle("open");
+});
+["q","area","sort","dir"].forEach(id => document.getElementById(id).addEventListener("input", render));
+document.querySelectorAll(".tab").forEach(b => b.addEventListener("click", () => {
+  currentType = b.dataset.type;
+  document.querySelectorAll(".tab").forEach(t => t.classList.toggle("on", t === b));
+  render();
+}));
+(function(){ const u = document.getElementById("urlbox"); u.value = location.origin + location.pathname; u.addEventListener("focus", () => u.select()); u.addEventListener("click", () => u.select()); })();
+document.getElementById("copyurl").addEventListener("click", async function(){
+  const url = location.origin + location.pathname, b = this;
+  let ok = false;
+  try { await navigator.clipboard.writeText(url); ok = true; } catch(e){}
+  if (!ok){
+    try { const t = document.createElement("textarea"); t.value = url; t.style.position = "fixed"; t.style.opacity = "0"; document.body.appendChild(t); t.select(); t.setSelectionRange(0, 9999); ok = document.execCommand("copy"); t.remove(); } catch(e){}
+  }
+  if (!ok){ window.prompt("URLをコピーしてください", url); return; }
+  b.textContent = "✓ コピーしました"; setTimeout(() => { b.textContent = "🔗 このサイトのURLをコピー"; }, 1800);
+});
+</script>
+</body>
+</html>
+
+</body></html>
