@@ -1932,6 +1932,53 @@
       "formedYear": 2026,
       "xFollowers": 3184,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "アイマイ！",
+      "x": "IMY__official",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2026,
+      "xFollowers": 9363,
+      "ytSubscribers": null,
+      "agency": "RIZE PRODUCTION"
+    },
+    {
+      "type": "group",
+      "name": "オカシリゾート",
+      "x": "okashi_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2023,
+      "xFollowers": 3717,
+      "ytSubscribers": null,
+      "agency": "Studio Lis"
+    },
+    {
+      "type": "group",
+      "name": "ON THE AIR",
+      "x": "ONTHEAIR_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 2802,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "トウトイナ。",
+      "x": "toutoina_collet",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 2503,
+      "ytSubscribers": null,
+      "agency": "コレットプロモーション"
     }
   ]
 }
