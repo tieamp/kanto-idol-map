@@ -1025,6 +1025,62 @@
       "xFollowers": 8165,
       "ytSubscribers": null,
       "agency": "LIVE PLANET"
+    },
+    {
+      "type": "group",
+      "name": "SWEET STEADY",
+      "x": "SWEET_STEADY",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2024,
+      "xFollowers": 90000,
+      "ytSubscribers": null,
+      "agency": "アソビシステム"
+    },
+    {
+      "type": "group",
+      "name": "AZATOY",
+      "x": "AZATOY_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 15000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "KissBee",
+      "x": "CUG_kissbee",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2014,
+      "xFollowers": 29000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "iCON!",
+      "x": "iCON__INFO",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 5497,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "AKANECLUB.",
+      "x": "akaneclub_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 5708,
+      "ytSubscribers": null
     }
   ]
 }
