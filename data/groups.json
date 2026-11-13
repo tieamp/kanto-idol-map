@@ -1291,6 +1291,99 @@
       "formedYear": 2026,
       "xFollowers": 6081,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "虹のコンキスタドール",
+      "x": "2zicon",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2014,
+      "xFollowers": 49000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "まねきケチャ",
+      "x": "maneki_kecak_x",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2015,
+      "xFollowers": 3138,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "マジカル・パンチライン",
+      "x": "MAGiPUNofficial",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2016,
+      "xFollowers": 18000,
+      "ytSubscribers": null,
+      "agency": "ボックスコーポレーション"
+    },
+    {
+      "type": "group",
+      "name": "BUNGEE GUM.",
+      "x": "bungeegum_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2024,
+      "xFollowers": 4010,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "MORE STAR",
+      "x": "MORE_STAR_",
+      "youtube": null,
+      "area": "東京",
+      "members": 9,
+      "formedYear": 2025,
+      "xFollowers": 43000,
+      "ytSubscribers": null,
+      "agency": "アソビシステム"
+    },
+    {
+      "type": "group",
+      "name": "FRESH CHARM",
+      "x": "FRESHCHARM_",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 3827,
+      "ytSubscribers": null,
+      "agency": "アヴァンセ"
+    },
+    {
+      "type": "group",
+      "name": "ネクスタリア",
+      "x": "nextaria_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 2707,
+      "ytSubscribers": null,
+      "agency": "TIARA STUDIO"
+    },
+    {
+      "type": "group",
+      "name": "NEVER END ROLL",
+      "x": "NEVER_END_ROLL_",
+      "youtube": null,
+      "area": "東京",
+      "members": 9,
+      "formedYear": 2026,
+      "xFollowers": 3548,
+      "ytSubscribers": null,
+      "agency": "ジャパン・ミュージックエンターテインメント／YARD"
     }
   ]
 }
