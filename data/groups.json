@@ -2216,6 +2216,86 @@
       "xFollowers": 1186,
       "ytSubscribers": null,
       "agency": "PLANET CATS"
+    },
+    {
+      "type": "group",
+      "name": "RePLAY",
+      "x": "RePLAY_BIR",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 3398,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "LilyS/ash",
+      "x": "lilsla_official",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 4401,
+      "ytSubscribers": null,
+      "agency": "ihana"
+    },
+    {
+      "type": "group",
+      "name": "Ringwanderung",
+      "x": "RWR__OFFICIAL",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2019,
+      "xFollowers": 10000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "Root mimi",
+      "x": "Root__mimi",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 14000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ルシフェルの園。",
+      "x": "felsono_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2025,
+      "xFollowers": 4721,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "log you",
+      "x": "_log_you_",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2025,
+      "xFollowers": 10000,
+      "ytSubscribers": null,
+      "agency": "アソビシステム"
+    },
+    {
+      "type": "group",
+      "name": "ワガママなラストノート",
+      "x": "wgln_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 5457,
+      "ytSubscribers": null,
+      "agency": "FreoMotto"
     }
   ]
 }
