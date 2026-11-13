@@ -1772,6 +1772,85 @@
       "formedYear": 2020,
       "xFollowers": 6133,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "SAISON",
+      "x": "SAISON_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2021,
+      "xFollowers": 9201,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "selfish",
+      "x": "selfish_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 5484,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "fav me",
+      "x": "_fav_me_",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2025,
+      "xFollowers": 24000,
+      "ytSubscribers": null,
+      "agency": "アソビシステム"
+    },
+    {
+      "type": "group",
+      "name": "Rain Tree",
+      "x": "RainTree_RT",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 25000,
+      "ytSubscribers": null,
+      "agency": "オーバース"
+    },
+    {
+      "type": "group",
+      "name": "Lollipop♡CHU",
+      "x": "Lollipop__CHU",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2024,
+      "xFollowers": 2621,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "WASURENA",
+      "x": "WASURENA_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 1799,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "One Last Bloom",
+      "x": "onelastbloom",
+      "youtube": null,
+      "area": "東京",
+      "members": 5,
+      "formedYear": 2025,
+      "xFollowers": 3177,
+      "ytSubscribers": null
     }
   ]
 }
