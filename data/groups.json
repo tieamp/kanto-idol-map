@@ -2341,6 +2341,74 @@
       "formedYear": 2024,
       "xFollowers": 5102,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "しろもん",
+      "x": "shiromon_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 5177,
+      "ytSubscribers": null,
+      "agency": "アップダンス・エンターテインメント"
+    },
+    {
+      "type": "group",
+      "name": "iRiNE",
+      "x": "iRiNE_official",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 2436,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "あたまのなかは8ビット！？",
+      "x": "8_bit_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": 8,
+      "formedYear": 2019,
+      "xFollowers": 9582,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "α＋",
+      "x": "alphaplus_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": 11,
+      "formedYear": 2026,
+      "xFollowers": 5183,
+      "ytSubscribers": null,
+      "agency": "VAZ／ツインプラネット"
+    },
+    {
+      "type": "group",
+      "name": "クマリデパート",
+      "x": "qumalidepart",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2016,
+      "xFollowers": 14000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "TERIOS",
+      "x": "TERIOS_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2026,
+      "xFollowers": 861,
+      "ytSubscribers": null
     }
   ]
 }
