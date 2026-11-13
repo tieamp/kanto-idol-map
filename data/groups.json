@@ -2059,6 +2059,50 @@
       "xFollowers": 8268,
       "ytSubscribers": null,
       "agency": "HEROINES"
+    },
+    {
+      "type": "group",
+      "name": "アオノシグナル",
+      "x": "aoshigu_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2026,
+      "xFollowers": 1321,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "AQA",
+      "x": "AQA_info",
+      "youtube": null,
+      "area": "東京",
+      "members": 6,
+      "formedYear": 2023,
+      "xFollowers": 6246,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "hakanai",
+      "x": "hakanai_story",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2023,
+      "xFollowers": 19000,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "buGG",
+      "x": "buGG_idol",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": 2025,
+      "xFollowers": 5599,
+      "ytSubscribers": null
     }
   ]
 }
