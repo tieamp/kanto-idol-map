@@ -2524,6 +2524,17 @@
       "formedYear": 2011,
       "xFollowers": 22000,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "わーすた",
+      "x": "tws_staff",
+      "youtube": null,
+      "area": "東京",
+      "members": 5,
+      "formedYear": 2015,
+      "xFollowers": null,
+      "ytSubscribers": null
     }
   ]
 }
