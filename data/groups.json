@@ -2502,6 +2502,28 @@
       "formedYear": 2022,
       "xFollowers": 4913,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "SUNNY PARADE",
+      "x": "328sunny_parade",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2026,
+      "xFollowers": 4948,
+      "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "二丁目の魁カミングアウト",
+      "x": "sakigake_gay",
+      "youtube": null,
+      "area": "東京",
+      "members": 4,
+      "formedYear": 2011,
+      "xFollowers": 22000,
+      "ytSubscribers": null
     }
   ]
 }
