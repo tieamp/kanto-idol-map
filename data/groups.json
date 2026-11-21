@@ -2547,6 +2547,17 @@
       "formedYear": null,
       "xFollowers": null,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "ポラリスマイル",
+      "x": "polarismile0530",
+      "youtube": null,
+      "area": "東京",
+      "members": 7,
+      "formedYear": 2025,
+      "xFollowers": null,
+      "ytSubscribers": null
     }
   ]
 }
