@@ -2558,6 +2558,42 @@
       "formedYear": 2025,
       "xFollowers": null,
       "ytSubscribers": null
+    },
+    {
+      "type": "group",
+      "name": "未完成のキャラメル",
+      "x": "_mikamel_freo_",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": null,
+      "xFollowers": null,
+      "ytSubscribers": null,
+      "agency": "FreoMotto"
+    },
+    {
+      "type": "group",
+      "name": "ミラクルファンファーレ！",
+      "x": "mirafan_info",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": null,
+      "xFollowers": null,
+      "ytSubscribers": null,
+      "agency": "FreoMotto"
+    },
+    {
+      "type": "group",
+      "name": "Blossom Garden",
+      "x": "BlossomGarden_",
+      "youtube": null,
+      "area": "東京",
+      "members": null,
+      "formedYear": null,
+      "xFollowers": null,
+      "ytSubscribers": null,
+      "agency": "RIZE PRODUCTION"
     }
   ]
 }
